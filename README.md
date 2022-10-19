@@ -1,6 +1,6 @@
 ## 배포 사이트
 
-[wanted-preonboarding-course.netlify.app](wanted-preonboarding-course.netlify.app)
+[https://wanted-preonboarding-course.netlify.app/](https://wanted-preonboarding-course.netlify.app/)
 
 ## 프로젝트 실행 방법
 
